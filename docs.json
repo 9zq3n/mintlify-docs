@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "bleed",
+  "name": "adore",
   "colors": {
     "primary": "#658a95",
     "light": "#95b6bd",
@@ -106,8 +106,8 @@
     ]
   },
   "logo": {
-    "light": "https://bleed.bot/bleed.png",
-    "dark": "https://bleed.bot/bleed.png"
+    "light": "https://adore.bot/adore.png",
+    "dark": "https://adore.bot/adore.png"
   },
   "appearance": {
     "default": "dark",
@@ -117,44 +117,44 @@
     "links": [
       {
         "label": "Support Server",
-        "href": "https://discord.gg/bleed"
+        "href": "https://discord.gg/adore"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Home",
-      "href": "https://bleed.bot"
+      "href": "https://adore.bot"
     }
   },
   "seo": {
     "metatags": {
       "theme-color": "#658a95",
-      "og:site_name": "bleed.bot"
+      "og:site_name": "adore.bot"
     },
     "indexing": "navigable"
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/bleed",
+      "discord": "https://discord.gg/adore",
       "github": "https://github.com/ju/docs"
     }
   },
   "redirects": [
     {
       "source": "/commands",
-      "destination": "https://bleed.bot/commands"
+      "destination": "https://adore.bot/commands"
     },
     {
       "source": "/status",
-      "destination": "https://bleed.bot/status"
+      "destination": "https://adore.bot/status"
     },
     {
       "source": "/invite",
-      "destination": "https://bleed.bot/invite"
+      "destination": "https://adore.bot/invite"
     },
     {
       "source": "/discord",
-      "destination": "https://discord.gg/bleed"
+      "destination": "https://discord.gg/adore"
     }
   ]
 }

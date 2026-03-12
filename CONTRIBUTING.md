@@ -20,4 +20,4 @@
 
 We require dark themes for screenshots and would prefer if screenshots are taken on any OS X device.
 
-![Example](https://bleed.bot/img/invoke.png)
+![Example](https://adore.bot/img/invoke.png)
