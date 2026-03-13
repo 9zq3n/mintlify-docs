@@ -106,8 +106,8 @@
     ]
   },
   "logo": {
-    "light": "https://adore.bot/adore.png",
-    "dark": "https://adore.bot/adore.png"
+    "light": "/favicon.png",
+    "dark": "/favicon.png"
   },
   "appearance": {
     "default": "dark",
