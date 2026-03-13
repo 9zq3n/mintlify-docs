@@ -7,7 +7,7 @@
     "light": "#95b6bd",
     "dark": "#658a95"
   },
-  "favicon": "favicon.png",
+  "favicon": "/favicon.png",
   "navigation": {
     "groups": [
       {
@@ -111,7 +111,7 @@
   },
   "appearance": {
     "default": "dark",
-    "strict": true
+    "strict": false
   },
   "navbar": {
     "links": [
