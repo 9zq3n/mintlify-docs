@@ -117,13 +117,13 @@
     "links": [
       {
         "label": "Support Server",
-        "href": "https://discord.gg/adore"
+        "href": "https://http://adore.rest/invite"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Home",
-      "href": "https://adore.bot"
+      "href": "https://adore.rest"
     }
   },
   "seo": {
@@ -135,7 +135,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/adore",
+      "discord": "https://http://adore.rest/invite",
       "github": "https://github.com/ju/docs"
     }
   },
@@ -154,7 +154,7 @@
     },
     {
       "source": "/discord",
-      "destination": "https://discord.gg/adore"
+      "destination": "https://http://adore.rest/invite"
     }
   ]
 }
