@@ -117,7 +117,7 @@
     "links": [
       {
         "label": "Support Server",
-        "href": "https://http://adore.rest/invite"
+        "href": "https://adore.rest/invite"
       }
     ],
     "primary": {
@@ -135,7 +135,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://http://adore.rest/invite",
+      "discord": "https://adore.rest/invite",
       "github": "https://github.com/ju/docs"
     }
   },
@@ -154,7 +154,7 @@
     },
     {
       "source": "/discord",
-      "destination": "https://http://adore.rest/invite"
+      "destination": "https://adore.rest/invite"
     }
   ]
 }

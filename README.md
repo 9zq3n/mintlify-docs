@@ -6,5 +6,5 @@ We welcome new contributions. Please create a [Pull Request](https://github.com/
 
 ## Join our community
 
-You can find the rest of us in adore's official [Discord Server](https://http://adore.rest/invite).
+You can find the rest of us in adore's official [Discord Server](http://adore.rest/invite).
 # docs
